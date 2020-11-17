@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: #cfd3ce;
+}
+/* home */
+p{
+  color: #734046;
+}
+h3{
+  color: #000000;
+}
+.left{
+  margin: 50px 50px;
+  width: auto;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #000000;
+}
+.btn{
+  margin: 20px auto;
+}
+.right{
+  margin: 50px 50px 50px 0;
+  width: 20%;
+  height: 30%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+.person{
+  position: relative;
+
+}
+.icon{
+  color: #343A40;
+  margin-bottom: 1.25rem;
+}
+.icon:hover{
+  color: #222831;
+}
+#press{
+  background-color: #cfd3ce;
+  text-align: center;
+}
+.press-logo{
+  width: 20%;
+  margin: 20px 20px 50px;
+}
+#footer{
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+.download-icon{
+  margin-right: 5px;
+}
+/* contact */
+.contact-form{
+    background: #fff;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-form form{
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+/* About */
+.about{
+  text-align: center;
+  padding: 50px;
+}
